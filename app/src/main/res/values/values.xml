@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="aviary_material_accent_dark">#ffffff</color>
+    <color name="aviary_primary_color">#ffffff</color>
+    <color name="aviary_main_loader_background">#666</color>
+    <color name="aviary_background_color">#ffffff</color>
+    <color name="aviary_logo_primary_color">#2f36a9</color>
+    <color name="aviary_logo_secondary_color">#2f36a9</color>
+    <color name="aviary_nav_divider_dark">#2f36a9</color>
+    <color name="aviary_nav_divider_light">#2f36a9</color>
+    <color name="aviary_nav_primary_color">#2f36a9</color>
+    <color name="aviary_nav_secondary_color">#232790</color>
+
+    <style name="AviaryWidget.Button.NavButton.Apply">
+        <item name="android:drawableLeft">@drawable/aviary_nav_check</item>
+        <item name="android:drawablePadding">5dip</item>
+    </style>
+
+    <style name="AviaryWidget.TextView.NavTitle">
+        <item name="android:shadowColor">@android:color/transparent</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="AviaryWidget.TextView.Tool">
+        <item name="android:shadowRadius">1</item>
+        <item name="android:shadowDx">0</item>
+        <item name="android:shadowDy">2</item>
+        <item name="android:shadowColor">@android:color/transparent</item>
+        <item name="android:gravity">center</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:focusable">true</item>
+        <item name="android:focusableInTouchMode">true</item>
+        <item name="android:textSize">@dimen/aviary_textSizeTools</item>
+        <item name="aviary_typeface">?attr/aviaryFontRegular</item>
+    </style>
+</resources>
