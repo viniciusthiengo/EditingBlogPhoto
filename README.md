@@ -6,7 +6,7 @@ Artigo que discute em detalhes a Adobe Creative SDK, SDK que permite a fácil ad
 
 <img src="https://www.thiengo.com.br/img/post/normal/u7slt72n5crcmn7bh6ur120at4eccd289a3f539dfb9c548356f59d47e5.png" width="240" alt="Aplicativo Android do artigo Edicão de Imagem no Android Com Adobe Creative SDK">
 
-O conteúdo do artigo também está disponível em [vídeo](https://www.thiengo.com.br/utilizando-bottomsheet-material-design-no-android).
+O conteúdo do artigo também está disponível em [vídeo](https://www.thiengo.com.br/edicao-de-imagem-no-android-com-adobe-creative-sdk).
 
 ### AndroidX
 
